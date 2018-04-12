@@ -45,7 +45,7 @@ void calibrate(int bot) {
     offset.b011[0] = -1000.0;
     offset.b011[1] = 175.0;
 
-    offset.b071[0] = -200.0; //wip
+    offset.b071[0] = -500.0; //wip
     offset.b071[1] = 172.0;
 
     offset.b081[0] = -500.0;
